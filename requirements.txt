@@ -1,0 +1,4 @@
+beautifulsoup4
+simple_term_menu
+rich
+requests
