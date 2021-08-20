@@ -17,8 +17,7 @@ python3 main.py
 
 
 As of 08/20/2021
-- Currently works on the first page of the list
+- Can now scrape list with multiple pages
 
-Roadmap:
-- Scrape all the pages of the list
+
 
