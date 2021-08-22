@@ -5,9 +5,10 @@ from bs4 import BeautifulSoup
 import requests
 
 def main():
-    print("GoodReads List Scraper\n")
+    main_console=Console()
+    main_console.print("GoodReads List Scraper\n",style="bold red")
     url=input("Please input url for Goodreads list to scrape: ")
-    print("\nSelect values to scrape:\n")
+    main_console.print("\nSelect values to scrape:\n",style="bold red")
     options = ["Book Title Only", "Book Title and Author"]
     terminal_menu = TerminalMenu(options)
     menu_entry_index = terminal_menu.show()

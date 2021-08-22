@@ -19,5 +19,9 @@ python3 main.py
 As of 08/20/2021
 - Can now scrape list with multiple pages
 
+Screenshot
+
+![Alt text](screenshot.png?raw=true "Terminal Screenshot")
+
 
 
